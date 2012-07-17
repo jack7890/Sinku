@@ -1,0 +1,1 @@
+A starting point for deploying Sinatra to Heroku.  Also adds Shotgun.

@@ -11,3 +11,9 @@ bundle install
 heroku create
 git push heroku master
 ```
+
+To rapidly develop your application, use Shotgun. It's an application reloader that prevents you from having to manually restart the app to see changes reflected locally.
+
+```
+shotgun -I. index.rb
+```

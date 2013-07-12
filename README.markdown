@@ -12,6 +12,7 @@ git clone https://github.com/jack7890/Sinku.git ./
 bundle install
 heroku create
 git push heroku master
+heroku open
 ```
 
 To load your app locally via Shotgun:

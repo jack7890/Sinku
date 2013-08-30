@@ -2,7 +2,7 @@
 
 Sinku is a starting point for deploying Sinatra to Heroku.  It allows you to get a website live on a remote URL in under 30 seconds.
 
-Sinku also includes [Twitter Bootstrap](https://github.com/twitter/bootstrap) for default styling and [Shotgun](https://github.com/rtomayko/shotgun) for automatic reloading.
+Sinku also includes [Twitter Bootstrap](https://github.com/twbs/bootstrap) for default styling and [Shotgun](https://github.com/rtomayko/shotgun) for automatic reloading.
 
 To quickly deploy a Sinatra app to Heroku:
 

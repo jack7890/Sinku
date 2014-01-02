@@ -21,6 +21,12 @@ git push heroku master
 heroku open
 ```
 
+To run this all at once:
+
+```
+mkdir -p ~/Sites/project && cd ~/Sites/project && git clone https://github.com/jack7890/Sinku.git ./ && bundle install && heroku create && git push heroku master
+```
+
 To load your app locally via Shotgun:
 
 ```

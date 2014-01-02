@@ -4,6 +4,12 @@ Sinku is a starting point for deploying Sinatra to Heroku.  It allows you to get
 
 Sinku also includes [Twitter Bootstrap](https://github.com/twbs/bootstrap) for default styling and [Shotgun](https://github.com/rtomayko/shotgun) for automatic reloading.
 
+## Requirements
+* [Bundler](http://bundler.io/)
+* [Heroku Toolbelt](https://toolbelt.heroku.com/)
+
+## How to Use
+
 To quickly deploy a Sinatra app to Heroku:
 
 ```

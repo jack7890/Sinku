@@ -32,3 +32,9 @@ To load your app locally via Shotgun:
 ```
 shotgun -I. index.rb
 ```
+
+To add your own remote repo:
+
+```
+git remote set-url origin https://github.com/USERNAME/OTHERREPOSITORY.git
+```
